@@ -1,0 +1,12 @@
+names:
+- Jay_Chou
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: jay-chou
+  url: https://universe.roboflow.com/kuanhan-fu-mri8i/jay-chou/dataset/1
+  version: 1
+  workspace: kuanhan-fu-mri8i
+test: /content/Jay-Chou-1/test/images
+train: /content/Jay-Chou-1/train/images
+val: /content/Jay-Chou-1/valid/images
